@@ -1,1 +1,3 @@
-ReactCOVID-19
+# Iniciando o Servidor Web
+
+- $ expo start
